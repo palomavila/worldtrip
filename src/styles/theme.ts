@@ -31,7 +31,6 @@ export const theme = extendTheme({
   },
 });
 
-// Version 2: Using functions
 const overrides = extendTheme({
   styles: {
     global: (props) => ({
