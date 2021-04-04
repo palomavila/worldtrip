@@ -1,6 +1,6 @@
 # 💻 Sobre o projeto WorldTrip:
 
-Criado no Chapter IV do bootcamp Ignite, o intuito foi a criação de um site que possui cidades turísticas do mundo todo.
+Criado no Chapter IV do bootcamp Ignite, o intuito foi a criação de um site que possui cidades turísticas do mundo. O projeto foi iniciado em Next.js e a implementação da interface feita conforme o layout do Figma.
 
 # 🎨 Layout do desafio:
 
@@ -8,9 +8,11 @@ Criado no Chapter IV do bootcamp Ignite, o intuito foi a criação de um site qu
 
 # 💯 Preview:
 
-- Para conferir como ficou, acese o [Deploy](https://worldtrippavila.netlify.app/)
+- Para conferir como ficou, acesse o [Deploy](https://worldtrippavila.netlify.app/)
 
 # 🚀 Demo:
+
+<img src="https://github.com/palomavila/worldtrip/blob/main/public/github/screen.gif" title="Screen" />
 
 ---
 
