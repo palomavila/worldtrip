@@ -3,8 +3,6 @@ import TravelTypesItem from "./TravelTypesItem";
 
 export default function TravelTypes() {
 
-
-
   return (
     <Flex
       w="100%"
